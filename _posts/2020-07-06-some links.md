@@ -1,8 +1,9 @@
 ---
 layout: post
+title: some links
 ---
 
-These are some links to crypto- and privacy-related services I use and like. They’re all affiliate/referral signup links that help me out.
+**These are some links to crypto- and privacy-related services I use and like. They’re all affiliate/referral signup links that help me out.**
 
 - Kraken (US crypto exchange) (https://r.kraken.com/c/2683011/687155/10583) 
 - Unstoppable Domains (.crypto) (https://unstoppabledomains.com/r/e44af633968d4e5)
