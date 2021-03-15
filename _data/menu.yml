@@ -10,5 +10,7 @@ entries:
      url: ethereum:0xD30188a171132c185f96FE5aD38C7c15b471dF63
    - title: opensea
      url: https://opensea.io/accounts/lemurodigital
+   - title: zk.money
+     url: /assets/zk.png
    - title: email
      url: mailto:scott@lemuro.digital
