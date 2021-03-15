@@ -2,14 +2,13 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-title: telegram
+-title: telegram
 url: [https://t.me/lemurodigital]
-title: cash.app
+-title: cash.app
 url: https://cash.app/$lemurodigital
-title: eth
+-title: eth
 url: [ethereum:0xD30188a171132c185f96FE5aD38C7c15b471dF63]
-title: opensea
+-title: opensea
 url: https://opensea.io/accounts/lemurodigital
-title: zk.money @scott
-title: email
+-title: email
 url: mailto:scott@lemuro.digital
