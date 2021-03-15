@@ -3,11 +3,11 @@
 
 entries:
    -title: telegram
-   url: [https://t.me/lemurodigital]
+   url: https://t.me/lemurodigital
    -title: cash.app
    url: https://cash.app/$lemurodigital
    -title: eth
-   url: [ethereum:0xD30188a171132c185f96FE5aD38C7c15b471dF63]
+   url: ethereum:0xD30188a171132c185f96FE5aD38C7c15b471dF63
    -title: opensea
    url: https://opensea.io/accounts/lemurodigital
    -title: email
