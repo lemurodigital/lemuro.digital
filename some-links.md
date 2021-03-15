@@ -1,6 +1,7 @@
 ---
 layout: post
 title: some links
+permalink: /some-links/
 ---
 
 **These are some links to crypto- and privacy-related services I use and like. They’re all affiliate/referral signup links that help me out.**
