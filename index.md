@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-![](\assets\avi.png)
+![](\logo\png)
