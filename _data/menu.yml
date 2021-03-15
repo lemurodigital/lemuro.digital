@@ -2,9 +2,5 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
     entries:
-      - title: fossguides.co
-        url: https://fossguides.co
-      - title: OpenArt
-        url: https://github.com/lemurodigital/open-art
       - title: email
         url: mailto:scott@lemuro.digital
