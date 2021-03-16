@@ -10,3 +10,5 @@ permalink: /some-links/
 - [Unstoppable Domains (.crypto)](https://unstoppabledomains.com/r/e44af633968d4e5)
 - [OpenSea.io (collectibles & art)](https://opensea.io?ref=0xd063f1896aa7e6550925418a7f5162f13b2a8ccb)
 - [Cash.App (get BTC rewards on shopping)](https://cash.app/app/VZZLWBQ)
+
+This homepage is built on [Jekyll](https://jekyllrb.com/) using the theme [riggraz/no-style-please](riggraz/no-style-please) and hosted on [Github Pages](https://pages.github.com/) through [this repository](https://github.com/lemurodigital/lemuro.digital).
