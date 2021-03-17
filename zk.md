@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-![](/assets/zk.png)
+![](/assets/zk.webp)

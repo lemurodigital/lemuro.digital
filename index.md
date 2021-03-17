@@ -12,4 +12,4 @@ scott is a web dev hobbyist interested in open source, art history, crypto, lang
 - [opensea](https://opensea.io/accounts/lemurodigital)
 - [yat](https://y.at/⛓️🕳️🔫⛓️)
 
-![](/assets/feature.png){:width="50%"}
+![](/assets/feature.webp){:width="50%"}
