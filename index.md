@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-scott is a web dev hobbyist interested in open source, art history, crypto, language, data hoarding, philosophy, DeFi, & the future.
+![](/assets/feature.webp){:width="50%"}  
+scott is a web dev hobbyist interested in open source, art history, crypto, language, data hoarding, philosophy, DeFi, & the future.  
 - [resources & info](/resources/)
 - [cv](/easter-egg)
 - [telegram](https://t.me/lemurodigital)
@@ -12,4 +13,3 @@ scott is a web dev hobbyist interested in open source, art history, crypto, lang
 - [opensea](https://opensea.io/accounts/lemurodigital)
 - [yat](https://y.at/⛓️🕳️🔫⛓️)
 
-![](/assets/feature.webp){:width="50%"}
