@@ -8,4 +8,4 @@ as a form of anti-spam on this static website, there are no direct links to my c
 
 since you're here, though...
 
-[](/assets/cat.webp)
+![](/assets/cat.webp){:width="75%"}
