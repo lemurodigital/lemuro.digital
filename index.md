@@ -6,7 +6,7 @@ scott is a web dev hobbyist interested in open source, art history, crypto, lang
 - [telegram](https://t.me/lemurodigital)
 - [cash.app](https://cash.app/$lemurodigital)
 - [opensea](https://opensea.io/accounts/lemurodigital)
-- [zk.money](/assets/zk.png)
+- [zk.money](/zk)
 - [yat](https://y.at/⛓️🕳️🔫⛓️)
 - [twitter](https://twitter.com/scottduplessis)
 - [email](mailto:scott@lemuro.digital)
