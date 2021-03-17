@@ -1,6 +1,7 @@
 ---
 layout: page
 sitemap: false
+title: 
 author: Scott DuPlessis
 ---
 ## **curriculum vitae of {{page.author}}**  
