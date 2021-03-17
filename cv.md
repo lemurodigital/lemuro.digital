@@ -11,7 +11,7 @@ author: Scott DuPlessis
 ### **[Willamette University](https://willamette.edu/)** - [Salem, OR](https://goo.gl/maps/BGzNSbrrCPVrQDVd8)  
 B.A. in [Philosophy](https://willamette.edu/arts-sciences/philosophy/index.html) & [Classics](https://willamette.edu/arts-sciences/classics/).  
 Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole_  
-###**Utterly too much law school** - [Iowa City, IA](https://webcam.iowa.uiowa.edu/live/)
+### **Utterly too much law school** - [Iowa City, IA](https://webcam.iowa.uiowa.edu/live/)
 ## 🖥 experience
 ### web paths
 **development & marketing**
@@ -26,7 +26,7 @@ Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole
 #### **layout editor** at _The Collegian_ newspaper - Salem, OR
 - Designed layout for student-run newspaper at Willamette University using Adobe InDesign.
 - Communicated with editors to make design and content decisions as well as participating in a democratic editorial process including conversations about the potential messaging and repercussions of publishing.
-## 😎 academic and additional interests
+## 😎 academic and additional interests. 
 **💀philosophy**
 : Nietzsche, David Hume, Bataille, Mark Fisher.  
 
