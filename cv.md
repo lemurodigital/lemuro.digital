@@ -4,13 +4,13 @@ sitemap: false
 title: curriculum vitae
 author: Scott DuPlessis
 ---  
-## Scott DuPlessis. 
+## Scott DuPlessis
 📩 Contactable via [email](mailto:scott@lemuro.digital), [text](tel:+1-352-340-3690), or [Telegram](https://t.me/lemurodigital).  
 🍱 Investigable on [Twitter](https://twitter.com/scottduplessis), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=XeM-g8CySoOEeqEWa1LQYw).  
-### 📓 education  
+### 📓 education
 #### **[Willamette University](https://willamette.edu/)** - [Salem, OR](https://goo.gl/maps/BGzNSbrrCPVrQDVd8)  
 B.A. in [Philosophy](https://willamette.edu/arts-sciences/philosophy/index.html) & [Classics](https://willamette.edu/arts-sciences/classics/). Graduated 2019.  
-Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole_  
+Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole_
 #### **Utterly too much law school** - [Iowa City, IA](https://webcam.iowa.uiowa.edu/live/)
 J.D. expected 2022.  
 ### 🖥 experience
@@ -37,4 +37,4 @@ Overland camping, learning to charcoal grill, hiking.
 **✨learning goals & interest areas**  
 Agile dev cycles, Swift, ADA compliance & accessibility, NFTs, Web 3.0, DeFi, ETH, blockchain, urbit, metaverse, Clubhouse.  
 
->[See what this page looks like in Markdown](https://raw.githubusercontent.com/lemurodigital/lemuro.digital/main/cv.md).
+> [See what this page looks like in Markdown](https://raw.githubusercontent.com/lemurodigital/lemuro.digital/main/cv.md).
