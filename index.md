@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+scott is a web dev hobbyist based in Iowa City, IA. interested in open source, art history, crypto, french, data hoarding, philosophy, ecommerce, & the future.
 - [resources](/some-links/)
 - [telegram](https://t.me/lemurodigital)
 - [cash.app](https://cash.app/$lemurodigital)
