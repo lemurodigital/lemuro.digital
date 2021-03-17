@@ -7,4 +7,4 @@ layout: home
 - [opensea](https://opensea.io/accounts/lemurodigital)
 - [zk.money](/assets/zk.png)
 - [email](mailto:scott@lemuro.digital)
-![](/logo.png)
+![](/assets/feature.png)
