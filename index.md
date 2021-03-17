@@ -10,4 +10,5 @@ scott is a web dev hobbyist interested in open source, art history, crypto, lang
 - [yat](https://y.at/⛓️🕳️🔫⛓️)
 - [twitter](https://twitter.com/scottduplessis)
 - [email](mailto:scott@lemuro.digital)
+- [cv](/easter-egg)
 ![](/assets/feature.png){:width="50%"}
