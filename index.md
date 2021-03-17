@@ -6,5 +6,6 @@ layout: home
 - [cash.app](https://cash.app/$lemurodigital)
 - [opensea](https://opensea.io/accounts/lemurodigital)
 - [zk.money](/assets/zk.png)
+- [twitter](https://twitter.com/scottduplessis)
 - [email](mailto:scott@lemuro.digital)
 ![](/assets/feature.png){:width="50%"}
