@@ -15,7 +15,7 @@ Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole
 J.D. expected 2022.  
 ### 🖥 experience
 #### web paths
-**development & marketing**
+##### **development & marketing**. 
 Content distribution on [Wordpress](https://fossguides.co/) (CMS), [Github](https://lemuro.digital/), Siteground.  
 [Analytics](https://fossguides.co/) in Google Analytics, Google Search Console, Jetpack.  
 Marketing with [Facebook Ads](https://facebook.com/fossguides) (including Pixel & Business Suite), Impact, Amazon Affiliate program.  
