@@ -2,7 +2,7 @@
 layout: home
 ---
 scott is a web dev hobbyist interested in open source, art history, crypto, language, data hoarding, philosophy, DeFi, & the future.
-- [resources & info](/some-links/)
+- [resources & info](/resources/)
 - [cv](/easter-egg)
 - [telegram](https://t.me/lemurodigital)
 - [email](mailto:scott@lemuro.digital)
