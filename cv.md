@@ -1,6 +1,5 @@
 ---
 layout: page
-title: cv
 sitemap: false
 author: Scott DuPlessis
 ---
@@ -37,4 +36,4 @@ J.D. expected 2022.
 **✨learning goals & interest areas**
 - Agile dev cycles, Swift, ADA compliance & accessibility, NFTs, Web 3.0, DeFi, ETH, blockchain, urbit, metaverse, Clubhouse.  
 
->This cv is written in Markdown.
+>[See what this page looks like in Markdown](https://raw.githubusercontent.com/lemurodigital/lemuro.digital/main/cv.md).
