@@ -1,6 +1,7 @@
 ---
 layout: page
 title: cv
+sitemap: false
 ---
 # Scott DuPlessis
 Contactable via [email](mailto:scott@lemuro.digital), [text](tel:+1-352-340-3690), or [Telegram](https://t.me/lemurodigital).
