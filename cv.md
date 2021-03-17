@@ -18,7 +18,7 @@ Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole
 - Content distribution on [Wordpress](https://fossguides.co/) (CMS), [Github](https://lemuro.digital/), Siteground.
 - [Analytics](https://fossguides.co/) in Google Analytics, Google Search Console, Jetpack.
 - Marketing with [Facebook Ads](https://facebook.com/fossguides) (including Pixel & Business Suite), Impact, Amazon Affiliate program.
-- 💯% positive feedback as seller on [eBay](https://www.ebay.com/usr/scottd90024) and [Discogs](https://www.discogs.com/sell/seller_feedback/scottd90024). Additional resale experience on Amazon and Etsy.
+- 💯% positive feedback as seller on [eBay](https://www.ebay.com/usr/scottd90024) and [Discogs](https://www.discogs.com/sell/seller_feedback/scottd90024). Additional resale experience on Amazon and Etsy.  
 ### college jobs
 #### **teaching assistant** at _Willamette University_ - Salem, OR
 - Tutored and instructed Symbolic Logic in philosophy department under the instruction and invitation of Professor Anthony Coleman.
