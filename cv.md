@@ -26,10 +26,10 @@ Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole
 - Designed layout for student-run newspaper at Willamette University using Adobe InDesign.
 - Communicated with editors to make design and content decisions as well as participating in a democratic editorial process including conversations about the potential messaging and repercussions of publishing.
 ## 😎 academic and additional interests
-**💀Philosophy**: Nietzsche, David Hume, Bataille, Mark Fisher.
-**👅Languages**: Latin proficiency, learning French on Duolingo.
-**🌲Outdoors**: Overland camping, learning to charcoal grill, hiking.
-**✨Learning goals & interest areas**:
+**💀philosophy**: Nietzsche, David Hume, Bataille, Mark Fisher.
+**👅languages**: Latin proficiency, learning French on Duolingo.
+**🌲outdoors**: Overland camping, learning to charcoal grill, hiking.
+**✨learning goals & interest areas**:
 - Agile dev cycles, Swift, ADA compliance & accessibility, NFTs, Web 3.0, DeFi, ETH, blockchain, urbit, metaverse, Clubhouse.  
 
 >This cv is written in Markdown.
