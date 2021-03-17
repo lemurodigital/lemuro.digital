@@ -4,14 +4,14 @@ title: cv
 sitemap: false
 ---
 # Scott DuPlessis
-Contactable via [email](mailto:scott@lemuro.digital), [text](tel:+1-352-340-3690), or [Telegram](https://t.me/lemurodigital).
-Investigable on [Twitter](https://twitter.com/scottduplessis), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=XeM-g8CySoOEeqEWa1LQYw).
-## education
+📩Contactable via [email](mailto:scott@lemuro.digital), [text](tel:+1-352-340-3690), or [Telegram](https://t.me/lemurodigital).
+🍱Investigable on [Twitter](https://twitter.com/scottduplessis), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=XeM-g8CySoOEeqEWa1LQYw).
+📓## education
 ###**[Willamette University](https://willamette.edu/)** - [Salem, OR](https://goo.gl/maps/BGzNSbrrCPVrQDVd8)
 B.A. in [Philosophy](https://willamette.edu/arts-sciences/philosophy/index.html) & [Classics](https://willamette.edu/arts-sciences/classics/).
 Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole_
 ###**Utterly too much law school** - [Iowa City, IA](https://webcam.iowa.uiowa.edu/live/)
-## experience
+🖥## experience
 ### web paths
 **development & marketing**
 - Content distribution on [Wordpress](https://fossguides.co/) (CMS), [Github](https://lemuro.digital/), Siteground.
