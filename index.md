@@ -7,6 +7,7 @@ scott is a web dev hobbyist based in Iowa. interested in open source, art histor
 - [cash.app](https://cash.app/$lemurodigital)
 - [opensea](https://opensea.io/accounts/lemurodigital)
 - [zk.money](/assets/zk.png)
+- [yat](https://y.at/⛓️🕳️🔫⛓️)
 - [twitter](https://twitter.com/scottduplessis)
 - [email](mailto:scott@lemuro.digital)
 ![](/assets/feature.png){:width="50%"}
