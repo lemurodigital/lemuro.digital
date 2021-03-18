@@ -6,6 +6,7 @@ permalink: /resources/
 ## {{page.title}}
 ### some links
 [textz.com information hub](https://textz.com/)  
+[still working on a good list]()
 
 ### old projects
 [spicymmmmm mixes + visuals](https://www.youtube.com/watch?v=BXk0L-X7GpM&list=PLXtervhpbT9CB8ym-euOlPbh2_NpfOKOG)  

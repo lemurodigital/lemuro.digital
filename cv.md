@@ -33,7 +33,7 @@ Nietzsche, David Hume, Bataille, Mark Fisher.
 **👅languages**  
 Latin proficiency, learning French on Duolingo.  
 **🌲outdoors**  
-Overland camping, learning to charcoal grill, hiking.  
+Overland camping, learning to charcoal grill, hiking, [photography](/photos/).  
 **✨learning goals & interest areas**  
 Agile dev cycles, Swift, ADA compliance & accessibility, NFTs, Web 3.0, DeFi, ETH, blockchain, urbit, metaverse, Clubhouse.  
 
