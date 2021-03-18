@@ -4,10 +4,9 @@ title: resources & info
 permalink: /resources/
 ---
 ## {{page.title}}
-**These are some links to crypto- and privacy-related services I use and like. They’re all affiliate/referral signup links that help me out.** 
-[Kraken (US crypto exchange)](https://r.kraken.com/c/2683011/687155/10583)  
-[OpenSea.io (collectibles & art)](https://opensea.io?ref=0xd063f1896aa7e6550925418a7f5162f13b2a8ccb)  
-[Cash.App (get BTC rewards on shopping)](https://cash.app/app/VZZLWBQ)  
+### some links
+[textz.com information hub](https://textz.com/)  
+
 ### old projects
 [spicymmmmm mixes + visuals](https://www.youtube.com/watch?v=BXk0L-X7GpM&list=PLXtervhpbT9CB8ym-euOlPbh2_NpfOKOG)  
 [FSOL compilations](https://www.youtube.com/watch?v=u1zPu2AeAb8&list=PLXtervhpbT9BFqogO_b217Xwx_pv0SsaZ)  
