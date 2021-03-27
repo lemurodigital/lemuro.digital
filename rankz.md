@@ -1,0 +1,10 @@
+---
+layout: post
+title: rankz
+permalink: /rankz/
+---
+
+[img]http://lemmmy.pw/osusig/sig.php?colour=hex000000&uname=vy7v&pp=0&countryrank&flagstroke&darktriangles&onlineindicator=undefined&xpbar&xpbarhex[/img]
+
+https://pokemonshowdown.com/users/buylink
+
