@@ -11,4 +11,4 @@ scott is a web dev hobbyist interested in open source, art history, crypto, lang
 - [videos](https://www.youtube.com/channel/UCN3N_o7YDbI8QI8yuCQmRJw)
 - [cash.app](https://cash.app/$lemurodigital)
 - [zk.money](/zk)
-- [opensea](https://opensea.io/accounts/lemurodigital)
+<!-- - [opensea](https://opensea.io/accounts/lemurodigital) -->
