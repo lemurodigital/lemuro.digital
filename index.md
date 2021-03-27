@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![](/assets/feature.webp){:width="75%"}  
+![](/assets/feature.webp){:width="50%"}  
 scott is a web dev hobbyist interested in open source, art history, crypto, language, data hoarding, philosophy, DeFi, & the future.  
 - [resources & info](/resources/)
 - [cv](/easter-egg)
