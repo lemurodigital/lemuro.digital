@@ -40,4 +40,4 @@ Overland camping, learning to charcoal grill, hiking, [photography](/photos/).
 #### ✨learning goals & interest areas  
 Web 3.0, NFTs, ADA compliance & accessibility, DeFi, ETH, blockchain, urbit, metaverse, education. 
 
-> [See what this page looks like in Markdown](https://raw.githubusercontent.com/lemurodigital/lemuro.digital/main/cv.md).
+> [See what this page looks like in Markdown](https://raw.githubusercontent.com/lemurodigital/lemuro.digital/main/cv.md) or on [Notion](https://www.notion.so/scott3/Curriculum-Vitae-2bbabd618d174ef699541a2ab6933dba).
