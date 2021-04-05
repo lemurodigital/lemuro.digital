@@ -4,11 +4,11 @@ sitemap: false
 title: curriculum vitae
 author: Scott DuPlessis
 ---  
-Last updated: 3/26/21
+Last updated: 4/4/21
 ## Scott DuPlessis
 📩 Contactable via [email](mailto:scott@lemuro.digital), [text](tel:+1-352-340-3690), or [Telegram](https://t.me/lemurodigital).  
-🍱 Investigable on [Twitter](https://twitter.com/scottduplessis), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=XeM-g8CySoOEeqEWa1LQYw).  
-### 📓 education 
+🍱 Investigable on [Twitter](https://twitter.com/lemurodigital), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=XeM-g8CySoOEeqEWa1LQYw).  
+### 📓 education
 #### **University of Iowa College of Law** - [Iowa City, IA](https://webcam.iowa.uiowa.edu/live/)
 J.D. expected 2022; GPA: 3.25; 	Intellectual Property Law Society member; [published](https://law.uiowa.edu/news/2021/03/iowa-law-students-address-pandemics-impact-workplace) by Prof. Lea VanderVelde in *White Paper: The COVID Pandemic’s Impact on Work Law*.
 #### **University of Idaho College of Law** - Moscow, ID
@@ -38,6 +38,6 @@ Latin proficiency, learning French on Duolingo.
 #### 🌲outdoors  
 Overland camping, learning to charcoal grill, hiking, [photography](/photos/).  
 #### ✨learning goals & interest areas  
-Web 3.0, NFTs, ADA compliance & accessibility, DeFi, ETH, blockchain, urbit, metaverse, education. 
+Web 3.0, NFTs, ADA compliance & accessibility, DeFi, ETH, blockchain, urbit, metaverse, education.
 
 > [See what this page looks like in Markdown](https://raw.githubusercontent.com/lemurodigital/lemuro.digital/main/cv.md) or on [Notion](https://www.notion.so/scott3/Curriculum-Vitae-2bbabd618d174ef699541a2ab6933dba).
