@@ -6,7 +6,6 @@ permalink: /resources/
 ## {{page.title}}
 ### some links
 [textz.com information hub](https://textz.com/)  
-[my Ulysses theme](/assets/lemurodigital.ultheme)    
 [still working on a good list]()
 
 ### old projects
