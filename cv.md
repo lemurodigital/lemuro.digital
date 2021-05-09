@@ -4,16 +4,16 @@ sitemap: false
 title: curriculum vitae
 author: Scott DuPlessis
 ---  
-Last updated: 4/4/21
+Last updated: 5/9/21
 ## Scott DuPlessis
 📩 Contactable via [email](mailto:scott@lemuro.digital), [text](tel:+1-352-340-3690), or [Telegram](https://t.me/lemurodigital).  
-🍱 Investigable on [Twitter](https://twitter.com/lemurodigital), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=XeM-g8CySoOEeqEWa1LQYw).  
+🍱 Investigable on [Twitter](https://twitter.com/lemurodigital), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [~~Spotify~~](tryingAppleMusic).  
 ### 📓 education
 #### **University of Iowa College of Law** - [Iowa City, IA](https://webcam.iowa.uiowa.edu/live/)
 J.D. expected 2022; GPA: 3.25; 	Intellectual Property Law Society member; [published](https://law.uiowa.edu/news/2021/03/iowa-law-students-address-pandemics-impact-workplace) by Prof. Lea VanderVelde in *White Paper: The COVID Pandemic’s Impact on Work Law*.
 #### **University of Idaho College of Law** - Moscow, ID
 First-year legal studies; GPA: 3.56; Rank 14/126; Dean's List; recipient of Langroise Law Scholarship.
-#### **[Willamette University](https://willamette.edu/)** - [Salem, OR](https://goo.gl/maps/BGzNSbrrCPVrQDVd8)  
+#### **[Willamette University](https://willamette.edu/)** - [Salem, OR](https://goo.gl/maps/BGzNSbrrCPVrQDVd8)
 B.A. in [Philosophy](https://willamette.edu/arts-sciences/philosophy/index.html) & [Classics](https://willamette.edu/arts-sciences/classics/). Graduated 2019.  
 Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole_
 
@@ -30,13 +30,13 @@ Adapted information to various learning styles and practiced effective communica
 ##### **layout editor** at _The Collegian_ newspaper - Salem, OR
 Designed layout for student-run newspaper at Willamette University using Adobe InDesign.  
 Communicated with editors to make design and content decisions as well as participating in a democratic editorial process including conversations about the potential messaging and repercussions of publishing.  
-### 😎 academic and additional interests.  
+### 😎 academic and additional interests.
 #### 💀philosophy  
-Nietzsche, David Hume, Bataille, Mark Fisher.  
+Nietzsche, David Hume, Bataille, Mark Fisher.
 #### 👅languages  
-Latin proficiency, learning French on Duolingo.  
+Latin proficiency, learning French on Duolingo.
 #### 🌲outdoors  
-Overland camping, learning to charcoal grill, hiking, [photography](/photos/).  
+Overland camping, learning to charcoal grill, hiking, [photography](/photos/).
 #### ✨learning goals & interest areas  
 Web 3.0, NFTs, ADA compliance & accessibility, DeFi, ETH, blockchain, urbit, metaverse, education.
 
