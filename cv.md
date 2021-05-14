@@ -4,10 +4,10 @@ sitemap: false
 title: curriculum vitae
 author: Scott DuPlessis
 ---  
-Last updated: 5/9/21
+Last updated: 5/14/21
 ## Scott DuPlessis
 📩 Contactable via [email](mailto:scott@lemuro.digital), [text](tel:+1-352-340-3690), or [Telegram](https://t.me/lemurodigital).  
-🍱 Investigable on [Twitter](https://twitter.com/lemurodigital), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [~~Spotify~~](tryingAppleMusic).  
+🍱 Investigable on [Twitter](https://twitter.com/lemurodigital), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=TJz2AX81R3mDPxJRhsK6kQ).  
 ### 📓 education
 #### **University of Iowa College of Law** - [Iowa City, IA](https://webcam.iowa.uiowa.edu/live/)
 J.D. expected 2022; GPA: 3.25; 	Intellectual Property Law Society member; [published](https://law.uiowa.edu/news/2021/03/iowa-law-students-address-pandemics-impact-workplace) by Prof. Lea VanderVelde in *White Paper: The COVID Pandemic’s Impact on Work Law*.
