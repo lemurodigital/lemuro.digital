@@ -4,9 +4,9 @@ sitemap: false
 title: curriculum vitae
 author: Scott DuPlessis
 ---  
-Last updated: 5/14/21
+Last updated: 5/25/21
 ## Scott DuPlessis
-📩 Contactable via [email](mailto:scott@lemuro.digital), [text](tel:+1-352-340-3690), or [Telegram](https://t.me/lemurodigital).  
+📩 Contactable via [email](mailto:scott@lemuro.digital) & [Telegram](https://t.me/lemurodigital).  
 🍱 Investigable on [Twitter](https://twitter.com/lemurodigital), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=TJz2AX81R3mDPxJRhsK6kQ).  
 ### 📓 education
 #### **University of Iowa College of Law** - [Iowa City, IA](https://webcam.iowa.uiowa.edu/live/)
@@ -21,7 +21,7 @@ Thesis: _The Priority of Existence: Kierkegaard and Nietzsche on Life as a Whole
 #### web development & marketing
 Content distribution on [Wordpress](https://fossguides.co/) (CMS), [Github](https://lemuro.digital/), Siteground.  
 [Analytics](https://fossguides.co/) in Google Analytics, Google Search Console, Jetpack.  
-Marketing with [Facebook Ads](https://facebook.com/fossguides) (including Pixel & Business Suite), Impact, Amazon Affiliate program.  
+Marketing with Facebook Ads (including Pixel & Business Suite), Impact, Amazon Affiliate program.  
 💯% positive feedback as seller on [eBay](https://www.ebay.com/usr/scottd90024) and [Discogs](https://www.discogs.com/sell/seller_feedback/scottd90024). Additional resale experience on Amazon and Etsy.  
 #### college jobs
 ##### **teaching assistant** at _Willamette University_ - Salem, OR
