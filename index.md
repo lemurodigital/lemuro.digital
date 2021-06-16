@@ -6,7 +6,7 @@ layout: home
 
 **scott** does media, distributed systems, art history, crypto, language, philosophy, DeFi, & future stuff. 
 
-**⚠️ plz hire this highly employable remote technical writer, editor, social media manager, brand designer, & organization guru ⚠️**
+**⚠️ plz hire this highly employable remote technical writer, editor, social media manager, brand designer, & organization guru.**
 - [twitter](https://twitter.com/lemurodigital)
 - [blog (medium)](https://blog.lemuro.digital)  
 - [telegram](https://t.me/lemurodigital)
