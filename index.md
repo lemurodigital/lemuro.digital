@@ -3,6 +3,8 @@ layout: home
 ---
 ![](/assets/feature.png){:width="50%"}  
 **do you consider yourself "cyberpunk"? if so, please email [scott@lemuro.digital](mailto:scott@lemuro.digital) and tell me what that means to you.** 
+
+
 scott is a law student interested in open source, art history, crypto, language, data hoarding, philosophy, DeFi, & the future.
 - [twitter](https://twitter.com/lemurodigital)
 - [blog (medium)](https://blog.lemuro.digital)  
