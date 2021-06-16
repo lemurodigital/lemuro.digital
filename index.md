@@ -2,10 +2,11 @@
 layout: home
 ---
 ![](/assets/feature.png){:width="50%"}  
-**do you consider yourself "cyberpunk"? if so, please email [scott@lemuro.digital](mailto:scott@lemuro.digital) and tell me what that means to you.** 
+**do you consider yourself "cyberpunk"? if so, please email [scott@lemuro.digital](mailto:scott@lemuro.digital) and describe what that means to you.** 
 
+**scott** does media, distributed systems, art history, crypto, language, philosophy, DeFi, & future stuff. 
 
-scott is a law student interested in open source, art history, crypto, language, data hoarding, philosophy, DeFi, & the future.
+**⚠️ plz hire this highly employable remote technical writer, editor, social media manager, brand designer, & organization guru ⚠️**
 - [twitter](https://twitter.com/lemurodigital)
 - [blog (medium)](https://blog.lemuro.digital)  
 - [telegram](https://t.me/lemurodigital)
