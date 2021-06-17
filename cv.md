@@ -2,10 +2,10 @@
 layout: page
 sitemap: false
 title: curriculum vitae
-author: Scott DuPlessis
+author: Scott Duplessis
 ---  
 Last updated: 6/10/21
-## Scott DuPlessis
+## Scott Duplessis
 📩 Contactable via [email](mailto:scott@lemuro.digital) & [Telegram](https://t.me/lemurodigital).  
 🍱 Investigable on [Twitter](https://twitter.com/lemurodigital), [LinkedIn](https://www.linkedin.com/in/scott-duplessis-abb8091a1/), and [Spotify](https://open.spotify.com/user/jp6tr9y7iarsp3875ljowt2tn?si=TJz2AX81R3mDPxJRhsK6kQ).  
 ### 📓 education
