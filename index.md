@@ -2,7 +2,7 @@
 layout: home
 ---
 ![](/assets/feature.png){:width="50%"}  
-**⚠️ do you consider yourself "cyberpunk"? if so, please email [scott@lemuro.digital](mailto:scott@lemuro.digital) and describe what that means to you.** 
+**⚠️ do you consider yourself "cyberpunk"? if so, please go to [dpunk.xyz](http://dpunk.xyz).** 
 
 **⚠️ plz hire this lovely remote technical writer, editor, social media manager, brand designer, & organization guru.**
 
